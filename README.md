@@ -1,4 +1,4 @@
-# L1 INFO - Introduction à la Sécurité (des données) - Projet 2023/2024
+# L1 INFO - Introduction à la Sécurité (des données) - Projet 2024/2025
 
 ## Install
 This project runs on a Jupyter server compatible with Python 3.8.
