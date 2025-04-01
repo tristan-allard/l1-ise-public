@@ -22,7 +22,7 @@ source ${PATH}/venv-a2r2/bin/activate
 # install the dependency management tool
 pip install poetry
 # clone the project and enter to the repo dir
-git clone https://github.com/jrbalderrama/a2r2.git a2r2 && cd $_
+git clone https://github.com/tristan.allard/l1-ise-public.git iseperturb && cd $_
 # install dependencies on the environment
 poetry install
 ```
